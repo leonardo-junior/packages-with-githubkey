@@ -1,12 +1,11 @@
 {
-  "name": "@zightech/input",
+  "name": "@zightech/model",
   "main": "lib/index.js",
-  "version": "0.0.4",
+  "version": "0.0.0",
   "private": false,
   "license": "MIT",
   "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "access": "public"
   },
   "dependencies": {
     "react": "^18.2.0",
@@ -21,6 +20,5 @@
   },
   "files": [
     "lib"
-  ],
-  "gitHead": "6101e56d36a78735031b23e9e24537d6880deac8"
+  ]
 }
